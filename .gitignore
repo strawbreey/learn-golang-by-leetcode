@@ -1,0 +1,12 @@
+public
+
+themes/
+themes/ananke
+# themes/friend
+
+/static/images/*.exe
+/static/images/*.zip
+/static/images/*.rar
+
+./workspace.code-workspace
+
